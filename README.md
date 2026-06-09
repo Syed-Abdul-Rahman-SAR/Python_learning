@@ -10,7 +10,7 @@ This repository contains my notes, code examples, and practice exercises while l
 * [X] Conditional Statements
 * [X] Loops
 * [ ] Functions
-* [ ] Lists and Tuples
+* [X] Lists and Tuples
 * [ ] Dictionaries and Sets
 * [ ] File Handling
 * [ ] Object-Oriented Programming
