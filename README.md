@@ -4,11 +4,11 @@ This repository contains my notes, code examples, and practice exercises while l
 
 ## Topics Covered
 
-* [ ] Python Basics
-* [ ] Variables and Data Types
-* [ ] Operators
-* [ ] Conditional Statements
-* [ ] Loops
+* [X] Python Basics
+* [X] Variables and Data Types
+* [X] Operators
+* [X] Conditional Statements
+* [X] Loops
 * [ ] Functions
 * [ ] Lists and Tuples
 * [ ] Dictionaries and Sets
