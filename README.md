@@ -9,13 +9,13 @@ This repository contains my notes, code examples, and practice exercises while l
 * [X] Operators
 * [X] Conditional Statements
 * [X] Loops
-* [ ] Functions
+* [X] Functions
 * [X] Lists and Tuples
-* [ ] Dictionaries and Sets
+* [X] Dictionaries and Sets
 * [ ] File Handling
 * [ ] Object-Oriented Programming
 * [ ] Exception Handling
-* [ ] Modules and Packages
+* [X] Modules and Packages
 
 ## Goal
 
