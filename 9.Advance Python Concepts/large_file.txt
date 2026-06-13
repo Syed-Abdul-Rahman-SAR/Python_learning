@@ -1,0 +1,9 @@
+Major rules while writing SOP :
+
+The evaluators typically spend 1–2 minutes per SOP, so they look for:
+
+Genuine interest in ML/AI.
+Evidence that you've already worked on ML.
+Why you want to learn from Amazon scientists.
+How you'll use the knowledge afterward.
+Clarity and impact not fancy English.
